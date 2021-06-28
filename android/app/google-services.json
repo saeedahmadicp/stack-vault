@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437150324022",
+    "project_id": "stack-vault-saeed",
+    "storage_bucket": "stack-vault-saeed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437150324022:android:fe79706df57fa7f3814f97",
+        "android_client_info": {
+          "package_name": "com.example.stack_vault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437150324022-pn7a4cu0hrurc72bnqfdusfpdc608iik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDvPOZZ5oDUa2hJkCpCqfv3dKrDxDLEqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437150324022-pn7a4cu0hrurc72bnqfdusfpdc608iik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
