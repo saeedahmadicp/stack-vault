@@ -1,27 +1,22 @@
 
-# Flash Chat ⚡️
+# Stack Vault
 
 ## Our Goal
-
-The objective of this tutorial is to learn how to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. 
-
-
-## What you will create
-
-We’re going to build a modern messaging app where users can sign up and log in to chat.
+The objective of our application is to secure your most personal data in best secure way. We use AES encryption for encrypting your data i.e. images, videos and other files. Our standing point is that we never save your encryption anywhere on the device nor on the cloud, so we are hoping to provide you the best security and make you safe in the unsafe world. 
 
 
-## What you will learn
-
-- How to incorporate Firebase into your Flutter projects.
-- How to use Firebase authentication to register and sign in users.
-- How to create beautiful animations using the Flutter Hero widget.
-- How to create custom aniamtions using Flutter's animation controller. 
-- Learn all about mixins and how they differ from superclasses.
-- Learn about Streams and how they work.
-- Learn to use ListViews to build scrolling views.
-- How to use Firebase Cloud Firestore to store and retrieve data on the fly.
+## Main Features 
+- Proper authentication, integrated with google cloud firebase
+- strong encryption on already saved data
+- facility to take images with our app and then encrypt it without saving it, on normal gallery
 
 
+## Future Work
+- I will integrate this app with google drive
+- Users will be able to store their encryted data on the google cloud 
+- No one without the original user will be able to access the cloud data
+- It will provide you backup to your most personal data in a secure way
 
->
+
+## Our Motive 
+- Standard security at no cost
