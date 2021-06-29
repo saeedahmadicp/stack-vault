@@ -2,7 +2,7 @@
 # Stack Vault
 
 ## Our Goal
-The objective of our application is to secure your most personal data in best secure way. We use AES encryption for encrypting your data i.e. images, videos and other files. Our standing point is that we never save your encryption anywhere on the device nor on the cloud, so we are hoping to provide you the best security and make you safe in the unsafe world. 
+The objective of our application is to secure your most personal data in best secure way. We have used AES encryption for encrypting your data i.e. images, videos and other files. Our standing point is that we never save your encryption anywhere on the device nor on the cloud, so we are hoping to provide you the best security and make you safe in the unsafe world. 
 
 
 ## Main Features 
