@@ -1,4 +1,4 @@
-name: online_testing_service
+name: stack_vault
 description: A new Flutter application.
 
 version: 1.0.0+1
@@ -22,7 +22,12 @@ dependencies:
   flutter_spinkit: ^4.1.2+1
   rflutter_alert: ^1.0.3
   flutter_launcher_icons: ^0.8.0
-
+  camera:
+  path_provider:
+  path:
+  image_picker:
+  aes_crypt: ^0.1.1
+  file_picker:
 
 
 

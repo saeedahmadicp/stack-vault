@@ -102,11 +102,11 @@ final kAppBarWithTabBar = AppBar(
         //icon: Icon(Icons.image),
       ),
       Tab(
-        text: 'Normal',
+        text: 'Encrypt',
         //icon: Icon(Icons.image),
       ),
       Tab(
-        text: 'Special',
+        text: 'Decrypt',
         //icon: Icon(Icons.image),
       ),
     ],

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'loginScreen.dart';
-import 'package:online_testing_service/constants.dart';
-import 'package:online_testing_service/components/press_button.dart';
+import 'package:stack_vault/constants.dart';
+import 'package:stack_vault/components/press_button.dart';
 import 'package:string_validator/string_validator.dart';
 import 'package:email_validator/email_validator.dart';
 import 'package:modal_progress_hud/modal_progress_hud.dart';

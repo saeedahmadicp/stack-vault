@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:online_testing_service/constants.dart';
+import 'package:stack_vault/constants.dart';
+import 'package:stack_vault/screens/decrypt_screen.dart';
+import 'encrypt_screen.dart';
 
 class GalleryMainScreen extends StatefulWidget {
   @override
@@ -18,8 +20,8 @@ class _GalleryMainScreenState extends State<GalleryMainScreen> {
             Text(
               'Main Gallery Images',
             ),
-            Text('Normal Photos'),
-            Text('Special Photos'),
+            EcryptScreen(),
+            DecryptScreen(),
           ],
         ),
       ),
