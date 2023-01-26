@@ -14,8 +14,6 @@ class StackVault extends StatelessWidget {
     return MaterialApp(
       title: 'Online Testing Service',
       theme: ThemeData.light(),
-      // home: LoginScreen(),
-      //home: Testing(),
       home: GalleryMainScreen(),
       routes: <String, WidgetBuilder>{
         'loginScreen': (context) => LoginScreen(),
