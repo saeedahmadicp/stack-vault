@@ -32,7 +32,6 @@ android {
         disable 'InvalidPackage'
     }
 
-    //com.example.online_testing_service
     //com.example.stack_vault
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
